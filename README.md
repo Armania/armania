@@ -1,4 +1,4 @@
-### Hi there 👋🏾, My name is Armani, Welcom to my GitHub!
+### Hi there 👋🏾, My name is Armani, Welcome to my GitHub!
 
 - 🎓 Currently working as a *Solutions Engineer* at *Google*(contractor).
 - ‍💻 My portfolio is available at **https://therealarmani.com**
