@@ -1,4 +1,6 @@
-### Hi👋🏾, My name is [Armani Appolon](https://www.threalarmani.com/linktree), Welcome to my GitHub!
+### Hi👋🏾, Welcome to my GitHub!
+
+My name is [Armani Appolon](https://www.threalarmani.com/linktree), I live in sunny South Florida.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/armaniappolon/">
