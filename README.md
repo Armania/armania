@@ -1,4 +1,4 @@
-### Hi there 👋🏾, My name is Armani, Welcome to my GitHub!
+### Hi👋🏾, My name is [Armani Appolon](https://www.threalarmani.com/linktree), Welcome to my GitHub!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/armaniappolon/">
@@ -77,8 +77,6 @@
 ## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armania&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armani)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
