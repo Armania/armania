@@ -1,7 +1,5 @@
 ### Hi👋🏾, Welcome to my GitHub!
 
-My name is [Armani Appolon](https://www.threalarmani.com/linktree), I live in sunny South Florida.
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/armaniappolon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +12,10 @@ My name is [Armani Appolon](https://www.threalarmani.com/linktree), I live in su
   </a>
   <img src="https://komarev.com/ghpvc/?username=armania&style=flat-square&color=blue" alt=""/>
 </div>
+
+## About me
+
+My name is [Armani Appolon](https://www.threalarmani.com/linktree), I live in sunny South Florida. See more below...
 
 - 🎓 Currently working as a **Solutions Engineer** at **Google**(contractor).
 - ‍💻 My portfolio is available at [**therealarmani.com**](https://therealarmani.com)
