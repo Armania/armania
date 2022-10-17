@@ -1,21 +1,21 @@
 ### Hi there 👋🏾, My name is Armani, Welcome to my GitHub!
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/armaniappolon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/TheRealArmani">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCPzIOjfO9LtgDfnoUAUYuAQ)L">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=armania&style=flat-square&color=blue" alt=""/>
 </div>
 
 - 🎓 Currently working as a **Solutions Engineer** at **Google**(contractor).
-- ‍💻 My portfolio is available at **https://therealarmani.com**
-- 🔭 I’m currently working on Buidling a **My Nuxt portfolio site**
+- ‍💻 My portfolio is available at [**therealarmani.com**](https://therealarmani.com)
+- 🔭 I’m currently working on Buidling a [**My Nuxt portfolio site**](ttps://therealarmani.com)
 - 🌱 I’m currently learning **Site Reliability Engineering**
 - 👯 I’m looking to collaborate on **Nodejs Open Source Projects**
 - 🤔 I’m looking for help with **VueJS**
@@ -85,5 +85,3 @@
 ### :writing_hand: Blog Posts :
 
 - coming soon...
-
-
