@@ -22,11 +22,13 @@
 - 💬 Ask me about **Site Performance & Accessibility**
 - 📫 How to reach me: *armaniappolon@gmail.com*
 - 😄 Pronouns: *He/Him*
-- ⚡ Fun fact: I am *6'8"* (201cm) tall
-- I love to read/listen/watch anything on History
-- I play the Saxophone
-- I play hours of Call of Duty in my spare time (psn: TheRealArmani)
-
+- ⚡ Fun fact: I am **6'8"** *(201cm) tall*
+- 🧠 I love to read/listen/watch anything on **History**
+- 🎷 I play the Saxophone
+- 🎮 I play hours of **Call of Duty: Warzone** in my spare time *(psn: TheRealArmani)*
+- 🎬 Currently Watching *House of Dragons"
+- 🎧 lover of **Jazz, 90's RnB & Hip-Hop**
+- 🌎 Located in **South Florida, USA**
 
 <div align="left">
   <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="100" />
@@ -34,3 +36,40 @@
   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100" />
 </div>
+
+## :hammer_and_wrench: Languages and Tools :
+<p dir="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="" width="50" />  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="" width="50" />    
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="50" />  
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/codepen/codepen-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/postgresql/postgresql-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/photoshop/photoship-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/php/php-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/nuxtjs/nuxtjs-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/sass/sass-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/sequelize/sequelize-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/socketio/socketio-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/tailwindcss/tailwindcss-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/typescript/typescript-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/Vim/vim-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/vuejs/vuejs-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/vuetify/vuetify-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/vim/vim-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/vscode/vscode-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/vuestorefront/vuestorefront-original.svg" alt="" width="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/webpack/webpack-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/wordpress/wordpress-original.svg" alt="" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/wocommerce/wocomerce-original.svg" alt="" width="50" />
+</p>
