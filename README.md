@@ -73,3 +73,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/wordpress/wordpress-original.svg" alt="" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/wocommerce/wocomerce-original.svg" alt="" width="50" />
 </p>
+
+## :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armania&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armani)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :writing_hand: Blog Posts :
+
+- coming soon...
+
+
