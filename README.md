@@ -15,7 +15,7 @@
 
 ## About me
 
-My name is [Armani Appolon](https://www.threalarmani.com/linktree), I live in sunny South Florida. See more below...
+My name is [Armani Appolon](https://www.threalarmani.com/linktree), See more below...
 
 - 🎓 Currently working as a **Solutions Engineer** at **Google**(contractor).
 - ‍💻 My portfolio is available at [**therealarmani.com**](https://therealarmani.com)
