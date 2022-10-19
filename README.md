@@ -21,6 +21,7 @@ My name is [Armani Appolon](https://www.threalarmani.com/linktree), See more bel
 - ‍💻 My portfolio is available at [**therealarmani.com**](https://therealarmani.com)
 - 🔭 I’m currently working on Buidling a [**My Nuxt portfolio site**](ttps://therealarmani.com)
 - 🌱 I’m currently learning **Site Reliability Engineering**
+- 📖 Currently Reading "Cracking the Code Interview" by Gayle Laakmann Mcdowell as apart of the ["Code Book Club" by Madison Kanna](https://madisonkanna.com/codebookclub)
 - 👯 I’m looking to collaborate on **Nodejs Open Source Projects**
 - 🤔 I’m looking for help with **VueJS**
 - 💬 Ask me about **Site Performance & Accessibility**
