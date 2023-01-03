@@ -17,7 +17,7 @@
 
 My name is [Armani Appolon](https://www.threalarmani.com/linktree), See more below...
 
-- 🎓 Currently working as a **Solutions Engineer** at **Google**(contractor).
+- 🎓 Currently working as a **Solutions Engineer** at **Google** (contractor).
 - ‍💻 My portfolio is available at [**therealarmani.com**](https://therealarmani.com)
 - 🔭 I’m currently working on Buidling a [**My Nuxt portfolio site**](ttps://therealarmani.com)
 - 🌱 I’m currently learning **Site Reliability Engineering**
